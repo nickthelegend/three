@@ -101,7 +101,7 @@
 		{
 			"mimeType":"image/jpeg",
 			"name":"sad",
-			"uri":"textures/sad.jpg"
+			"uri":"sad.jpg"
 		}
 	],
 	"accessors":[
